@@ -72,3 +72,4 @@ app.post('/getRankedData', catchAsync(async (req, res) => {
 
 
 
+module.exports = app
